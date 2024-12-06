@@ -40,5 +40,5 @@ DPFree is a groundbreaking project that addresses the urgent need for real-time,
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/dpfree.git
-cd dpfree
+git clone https://github.com/sayashraaj/AMTECS.git
+cd AMTECS
